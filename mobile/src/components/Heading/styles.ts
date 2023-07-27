@@ -1,5 +1,6 @@
 import { StyleSheet } from "react-native";
 import { THEME } from "../../theme";
+import { captureRejectionSymbol } from "events";
 
 export const styles = StyleSheet.create({
   container: {
@@ -16,4 +17,5 @@ export const styles = StyleSheet.create({
     fontSize: THEME.FONT_SIZE.MD,
     fontFamily: THEME.FONT_FAMILY.REGULAR,
   },
+  
 });

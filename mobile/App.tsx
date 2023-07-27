@@ -32,4 +32,6 @@ export default function App() {
 }
 
 // RUN EXPO = npx expo start
-// Stop in 01:39
+// Stop in 01:45
+//Caso a fonte não carregue executar o npx expo install @expo-google-fonts/inter expo-font
+// e Apagar o npm-cache dentro de C:\Users\Arlan\AppData\Local

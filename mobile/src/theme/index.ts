@@ -23,7 +23,7 @@ export const THEME = {
     REGULAR: 'Inter_400Regular',
     SEMI_BOLD: 'Inter_600SemiBold',
     BOLD: 'Inter_700Bold',
-    BLACK: 'Inter_900Black'
+    BLACK: 'Inter_900Black',
   },
 
   FONT_SIZE: {
