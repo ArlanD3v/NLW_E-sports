@@ -19,5 +19,3 @@ export function Background({ children }: Props) {
     </ImageBackground>
   );
 }
-
-// Stop in 01:18

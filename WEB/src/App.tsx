@@ -116,4 +116,4 @@ export default App;
 // PARA rodar o vite EXECUTE: npm run dev
 //npx tailwindcss init  (instalar o tailwind)
 //npx tailwindcss init -p (instalar o tailwind + postcss)
-// stop in 01:39
+//Stop in 01:52
