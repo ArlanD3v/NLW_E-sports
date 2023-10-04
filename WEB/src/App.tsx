@@ -113,7 +113,7 @@ function App() {
 
 export default App;
 
-// PARA rodar o vite EXECUTE: npm run dev
+// PARA rodar o vite EXECUTE: npm run dev  dentro de \WEB
 //npx tailwindcss init  (instalar o tailwind)
 //npx tailwindcss init -p (instalar o tailwind + postcss)
 //Stop in 01:52
