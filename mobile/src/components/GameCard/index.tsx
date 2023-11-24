@@ -26,3 +26,4 @@ export function GameCard({ data }: Props) {
 }
 
 //Stop in 01:52
+//Aula 2
