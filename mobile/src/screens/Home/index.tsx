@@ -11,8 +11,8 @@ export function Home() {
     <View style={styles.container}>
       <Image source={logoImg} style={styles.logo} />
       <Heading
-        title="Encontre seu DUO!"
-        subtitle="Selecione o game que deseja jogar..."
+        title="Find your DUO!"
+        subtitle="Select the game you want to play.."
       />
     </View>
   );
